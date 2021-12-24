@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/book-finder-app/static/css/main.5fc34653.css",
-    "main.js": "/book-finder-app/static/js/main.105f1bbf.js",
+    "main.css": "/book-finder-app/static/css/main.66c359cc.css",
+    "main.js": "/book-finder-app/static/js/main.f512f07c.js",
     "static/js/787.94195e6a.chunk.js": "/book-finder-app/static/js/787.94195e6a.chunk.js",
     "index.html": "/book-finder-app/index.html",
-    "main.5fc34653.css.map": "/book-finder-app/static/css/main.5fc34653.css.map",
-    "main.105f1bbf.js.map": "/book-finder-app/static/js/main.105f1bbf.js.map",
+    "main.66c359cc.css.map": "/book-finder-app/static/css/main.66c359cc.css.map",
+    "main.f512f07c.js.map": "/book-finder-app/static/js/main.f512f07c.js.map",
     "787.94195e6a.chunk.js.map": "/book-finder-app/static/js/787.94195e6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fc34653.css",
-    "static/js/main.105f1bbf.js"
+    "static/css/main.66c359cc.css",
+    "static/js/main.f512f07c.js"
   ]
 }
