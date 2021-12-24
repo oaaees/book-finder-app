@@ -1,6 +1,6 @@
 # Book Finder App
 
-![Book Finder Preview](/assets/screenshot-book-finder-app.png)
+![Book Finder Preview](/assets/screenshot-book-finder-app.PNG)
 
 ## Overview
 
@@ -26,9 +26,9 @@ This project is hosted through Github Pages on [https://oaaees.github.io/book-fi
 ## Run locally 
 
 To run this project on your computer you must have [NodeJS](https://nodejs.org/en/) installed. First clone this repository and the run the following commands:
-
-  npm install
+  ```
+  npm install    
   npm start
-
+  ```
 and a new tab running the webpage will open on your browser.
 
