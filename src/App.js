@@ -40,7 +40,7 @@ function App(){
         </form>
       </header>
       <main>
-        {books == undefined ? <div>Sorry, no results found.</div> :
+        {books == undefined ? <div>Sorry, no results found. Try making a new search!</div> :
         books.map(book => (
           <Book key=      {book.id} 
                 title=    {book.volumeInfo.title ? book.volumeInfo.title : "N/A"} 
@@ -53,7 +53,7 @@ function App(){
       </main>
       <footer className={books == undefined ? "full" : ""}>
         <p>Made with love 💙 by <a href="https://github.com/oaaees" target="_blank">oaaees!!</a></p>
-        <p>Source code is available on <a href="https://github.com/oaaees/book-finder">Github</a></p>
+        <p>Source code is available on <a href="https://github.com/oaaees/book-finder-app" target="_blank">Github</a></p>
       </footer>
     </div>
   );

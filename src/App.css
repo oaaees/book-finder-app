@@ -96,13 +96,13 @@ main {
 .book .description a {
   color: black;
   text-decoration: none;
-  border: 1px black solid;
+  border: 1px #053C5E solid;
   padding: 0.3rem 0.6rem;
 }
 
 .book .description a:hover {
   color: white;
-  background-color: black;
+  background-color: #053C5E;
   border: 1px black solid;
   padding: 0.2rem 0.5rem;
 }
